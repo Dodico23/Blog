@@ -1,0 +1,4 @@
+
+db.url= jdbc:postgresql://localhost:5433/authors
+db.login= postgres
+db.password=37852146
